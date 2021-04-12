@@ -24,6 +24,20 @@
                 </svg>
             </div>
         </div>
+    </div>
 
+    <div class="ideas-container space-y-6 my-6">
+        <div class="idea-container bg-white rounded-xl flex">
+            <div class="border-r border-gray-100 px-5 py-8">
+                <div class="text-center">
+                    <div class="font-semibold text-2xl">12</div>
+                    <div class="text-gray-500">Votes</div>
+                </div>
+
+                <div class="mt-8">
+                    <button class="w-20 bg-gray-200 border border-gray-200 hover:border-gray-400 font-bold text-us uppercase rounded-xl transition duration-150 ease-in px-4 py-3">Vote</button>
+                </div>
+            </div>
+        </div>
     </div>
 </x-app-layout>
