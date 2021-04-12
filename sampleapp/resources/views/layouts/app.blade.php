@@ -47,5 +47,26 @@
                 </a>
             </div>
         </header>
+        <main class="container mx-auto flex" style="max-width:1000px">
+            <div style="max-width:280px; margin-right:20px">
+                add idea from goes here. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Quibusdam in aperiam at laboriosam quidem perferendis et debitis tempore.
+                Perferendis repellendus odit doloribus placeat minus illo tenetur iusto laboriosam nobis ad.
+            </div>
+            <div class="w-175">
+                <nav class="flex items-center justify-between text-xs">
+                    <ul class="flex uppercase font-semibold border-b-4 pb-3 space-x-10">
+                        <li><a href="#" class="border-b-4 pb-3 space-x-10">All Ideas (87)</a></li>
+                        <li><a href="#" class="text-gray-400 transition duration-150 ease-in border-b-4 pb-3 hover:border-blue">Considering (6)</a></li>
+                        <li><a href="#" class="text-gray-400 transition duration-150 ease-in border-b-4 pb-3 hover:border-blue">In Progress (1)</a></li>
+                    </ul>
+
+                    <ul class="flex uppercase font-semibold border-b-4 pb-3 space-x-10">
+                        <li><a href="#" class="text-gray-400 transition duration-150 ease-in border-b-4 pb-3 hover:border-blue">Implemented (10)</a></li>
+                        <li><a href="#" class="text-gray-400 transition duration-150 ease-in border-b-4 pb-3 hover:border-blue">Closed (55)</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </main>
     </body>
 </html>
