@@ -27,7 +27,7 @@
     </div>
 
     <div class="ideas-container space-y-6 my-6">
-        <div class="idea-container bg-white rounded-xl flex">
+        <div class="idea-container hover:shadow-md bg-white rounded-xl flex">
             <div class="border-r border-gray-100 px-5 py-8">
                 <div class="text-center">
                     <div class="font-semibold text-2xl">12</div>
@@ -46,7 +46,7 @@
                     <h4 class="text-xl font">
                         <a href="#" class="hover:underline">A random title can go here</a>
                     </h4>
-                    <div class="text-gray-600 mt-3">
+                    <div class="text-gray-600 mt-3 line-clamp-3">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique suscipit reprehenderit praesentium nobis itaque ut perspiciatis? Nihil, perferendis dolores, dolorem sunt quidem unde illum vitae voluptas a veniam blanditiis similique?
                     </div>
 
